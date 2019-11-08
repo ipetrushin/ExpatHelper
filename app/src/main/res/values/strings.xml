@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpatHelper</string>
+    <string-array name="cities">
+        <item>Shelekhov</item>
+        <item>Kultuk</item>
+        <item>Kemerovo</item>
+    </string-array>
+</resources>
