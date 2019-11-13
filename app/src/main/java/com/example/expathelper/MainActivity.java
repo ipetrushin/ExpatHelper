@@ -1,4 +1,4 @@
-package com.example.expathelper;
+﻿package com.example.expathelper;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -27,8 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
-
+	//Добрый день, товарищи студенты!
     class CountTask extends AsyncTask<Integer, Integer, Void> {
 
         public double getTemperatureByCity(int cityID) {
