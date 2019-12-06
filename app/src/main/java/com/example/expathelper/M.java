@@ -1,7 +1,5 @@
 package com.example.expathelper;
 
-class Weather {
-
-    M main;
-
+class M {
+    float temp;
 }
